@@ -1,0 +1,10 @@
+{
+  "description": "A comprehensive waste management platform streamlining operations, billing, and communication for admins, customers, drivers, finance, and managers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
